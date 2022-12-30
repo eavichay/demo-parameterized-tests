@@ -10,6 +10,6 @@
   "license": "ISC",
   "devDependencies": {
     "csv-load-sync": "^1.0.0",
-    "mocha": "^6.1.4"
+    "mocha": "^10.2.0"
   }
 }
